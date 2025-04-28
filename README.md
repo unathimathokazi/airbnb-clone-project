@@ -40,3 +40,38 @@ The design of this project should focus on providing a clean, user-friendly inte
 
 ### Importance of a User-Friendly Design in a Booking System
 A user-friendly design is crucial in any booking system because it ensures users can easily find what they need and complete their bookings without confusion or frustration. The booking process should be smooth and intuitive, with minimal steps required to confirm the reservation. Clear visual hierarchy, easy-to-use forms, and well-organized content are essential for providing a pleasant user experience and encouraging conversions (i.e., bookings). Furthermore, making the system accessible to all users ensures inclusivity, which is important for customer satisfaction.
+
+UI/UX Design Planning 
+
+### Color Styles and Typography
+
+#### Color Styles
+Below are the primary colors that will be used across the UI of the Airbnb Clone:
+
+- **Primary Color**: #FF5A5F (Bright Coral) - Used for primary call-to-action buttons and key highlights.
+- **Secondary Color**: #484848 (Dark Gray) - For text and secondary information.
+- **Accent Color**: #F2F2F2 (Light Gray) - Used for backgrounds, card containers, and borders.
+- **Text Color**: #333333 (Dark Gray) - Main text color for readability.
+
+#### Typography
+The typography for the Airbnb Clone project will be clean and modern to ensure readability and visual appeal:
+
+- **Font Family**: `Roboto, sans-serif`
+  - The primary font family is `Roboto` because of its clarity and legibility.
+- **Font Weight**:
+  - **Normal Text**: 400 (Regular)
+  - **Headings**: 700 (Bold) for clear differentiation.
+- **Font Size**:
+  - **Body Text**: 16px for regular text.
+  - **Headings**: 32px for large headings, 24px for subheadings.
+  - **Button Text**: 14px for action buttons to ensure readability.
+
+### Importance of Identifying Design Properties in Mockup Design
+Identifying and specifying the design properties of a mockup design are crucial for several reasons:
+
+1. **Consistency**: It ensures uniformity across the entire user interface. For example, using the same color scheme, typography, and layout style helps maintain a cohesive look and feel throughout the website.
+2. **Clarity**: Knowing the exact color codes, font sizes, and other design properties helps developers implement the design accurately without confusion.
+3. **Responsive Design**: Design properties such as padding, margins, and font sizes are essential for ensuring the layout adapts correctly across different screen sizes.
+4. **Usability**: By identifying key properties like contrast, font size, and spacing, you ensure the design remains readable and user-friendly, even for users with visual impairments or on small screens.
+5. **Efficiency**: Clear design specifications make it easier for both designers and developers to collaborate effectively, as they can quickly refer to a unified source of truth for the design.
+
