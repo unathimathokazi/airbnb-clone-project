@@ -75,3 +75,80 @@ Identifying and specifying the design properties of a mockup design are crucial 
 4. **Usability**: By identifying key properties like contrast, font size, and spacing, you ensure the design remains readable and user-friendly, even for users with visual impairments or on small screens.
 5. **Efficiency**: Clear design specifications make it easier for both designers and developers to collaborate effectively, as they can quickly refer to a unified source of truth for the design.
 
+### Project Roles and Responsibilities
+
+In order to ensure the success of the Airbnb Clone project, it is important to define the roles and responsibilities of each team member. Below are the key roles and their associated responsibilities:
+
+#### 1. **Project Manager**
+- **Responsibilities**:
+  - Oversee the project from initiation to completion.
+  - Define project scope, goals, and deliverables.
+  - Create and manage project timelines and budgets.
+  - Communicate with stakeholders to ensure alignment with business objectives.
+  - Identify risks and manage project challenges.
+- **Contribution to Success**:
+  The Project Manager ensures that the project is completed on time, within budget, and meets the required quality standards.
+
+#### 2. **Frontend Developers**
+- **Responsibilities**:
+  - Design and implement the user interface (UI) of the application.
+  - Ensure the website is responsive and works across all device sizes.
+  - Implement interactive elements using JavaScript and frameworks like React.
+  - Collaborate with designers to bring mockups to life.
+- **Contribution to Success**:
+  Frontend Developers are responsible for creating an engaging, user-friendly experience, which is critical for user satisfaction and retention.
+
+#### 3. **Backend Developers**
+- **Responsibilities**:
+  - Develop the server-side logic, database management, and APIs.
+  - Handle user authentication, data storage, and data retrieval.
+  - Ensure that the application is scalable and performs efficiently.
+  - Implement security measures to protect sensitive user data.
+- **Contribution to Success**:
+  Backend Developers ensure the proper functioning of the application and data integrity, making the system robust and secure.
+
+#### 4. **Designers**
+- **Responsibilities**:
+  - Create the visual aspects of the application, including layout, color schemes, and typography.
+  - Design user interfaces, focusing on usability and accessibility.
+  - Create wireframes and prototypes for developers to implement.
+- **Contribution to Success**:
+  Designers contribute to creating a visually appealing, user-friendly product that resonates with users and improves their experience.
+
+#### 5. **QA/Testers**
+- **Responsibilities**:
+  - Conduct thorough testing of the application, including functional, usability, and performance testing.
+  - Identify bugs, report issues, and work with developers to ensure fixes.
+  - Test on various devices and browsers to ensure compatibility.
+- **Contribution to Success**:
+  QA/Testers ensure the application is bug-free and performs optimally across all devices, which is crucial for user satisfaction.
+
+#### 6. **DevOps Engineers**
+- **Responsibilities**:
+  - Automate and manage the deployment pipeline.
+  - Maintain and monitor infrastructure to ensure high availability and scalability.
+  - Handle cloud hosting and continuous integration/continuous delivery (CI/CD) processes.
+- **Contribution to Success**:
+  DevOps Engineers ensure smooth deployment, system stability, and scalability, helping the application run efficiently and reliably.
+
+#### 7. **Product Owner**
+- **Responsibilities**:
+  - Define the product vision and ensure that the development team aligns with it.
+  - Prioritize features and manage the product backlog.
+  - Make key decisions about the product's functionality and design.
+  - Communicate with stakeholders to gather feedback and adjust product priorities.
+- **Contribution to Success**:
+  The Product Owner ensures that the final product aligns with the target users' needs and delivers value to the business.
+
+#### 8. **Scrum Master**
+- **Responsibilities**:
+  - Facilitate Scrum ceremonies such as daily stand-ups, sprint planning, and retrospectives.
+  - Remove obstacles that the development team faces during sprints.
+  - Ensure the team follows Agile principles and Scrum best practices.
+  - Promote continuous improvement within the team.
+- **Contribution to Success**:
+  The Scrum Master ensures that the team works efficiently and stays on track, allowing the project to progress smoothly and adapt to any changes.
+
+---
+
+Each role plays a crucial part in the project’s success, and the collaboration among all team members will ensure a well-rounded and functional final product.
